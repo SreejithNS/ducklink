@@ -1,0 +1,27 @@
+{
+  "name": "ducklink",
+  "version": "0.0.1",
+  "description": "An Android Device Manager with TealDuck Capabilities.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SreejithNS/ducklink.git"
+  },
+  "keywords": [
+    "Android",
+    "Device",
+    "Manager",
+    "TealDuck",
+    "Device",
+    "Link"
+  ],
+  "author": "Sreejith N",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SreejithNS/ducklink/issues"
+  },
+  "homepage": "https://github.com/SreejithNS/ducklink#readme"
+}
